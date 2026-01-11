@@ -87,6 +87,6 @@ Steps are shown live during execution.
 ---
 
 ## Group Members
-**Subhan Ahmad (BSDSF24M048)**
-**Faizan Aslam Bhatti (BSDSF24M051)**
-**Muhammad Akmal (BSDSF24M059)**
+- **Subhan Ahmad (BSDSF24M048)**
+- **Faizan Aslam Bhatti (BSDSF24M051)**
+- **Muhammad Akmal (BSDSF24M059)**
